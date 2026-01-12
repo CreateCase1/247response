@@ -8,7 +8,7 @@
   <h1>Welcome</h1>
 
   <!-- Invite badge -->
-  <a href="https://https://discord.gg/36yrkjDz7G_CODE" target="_blank" rel="noopener noreferrer">
+  <a href="https://https://discord.gg/36yrkjDz7G target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=fff" alt="Join our Discord">
   </a>
 
